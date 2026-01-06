@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darklight-amit.github.io/sitemap.xml
