@@ -1,1 +1,2 @@
-# darklight-amit.github.io
+# emi-calculator
+It will calculator emi amount
